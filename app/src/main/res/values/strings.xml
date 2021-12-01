@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project5</string>
+    <string name="pepperoni_pizza">Pepperoni Pizza</string>
+    <string name="hawaiian_pizza">Hawaiian pizza</string>
+    <string name="deluxe_pizza">Deluxe pizza</string>
+    <string name="store_order_page">Store Order Page</string>
+    <string name="content_order_page">Content Order Page</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+
+
+</resources>
